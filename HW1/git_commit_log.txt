@@ -1,0 +1,165 @@
+commit 054840f75ce649be35e33330f051234a915067ed
+Author: cina <cina@tacc.utexas.edu>
+Date:   Mon Oct 2 14:23:52 2017 -0500
+
+    add code for task
+
+commit e9e17783b6f692081c44f9f692150ad2ba2d86c7
+Author: cina <cina@tacc.utexas.edu>
+Date:   Mon Oct 2 14:22:38 2017 -0500
+
+    finish task
+
+commit 2aabb9f5973be8cffe0c43846687e7e8a0e87140
+Author: cina <cina@tacc.utexas.edu>
+Date:   Mon Oct 2 12:44:19 2017 -0500
+
+    add code
+
+commit 1d982243e4309afc8f08c5658758358c0c2bb309
+Author: cina <cina@tacc.utexas.edu>
+Date:   Mon Oct 2 12:28:10 2017 -0500
+
+    finish question
+
+commit d46f67e8d8da62dd8bbe4574302457ed7049c9bb
+Author: Anne Dara Bowen <adb@tacc.utexas.edu>
+Date:   Mon Sep 25 12:36:29 2017 -0500
+
+    finished editing the HW1 README
+
+commit 62362e5402627c3c6b47f208c35df62ecc1fcb6c
+Author: Anne Dara Bowen <adb@tacc.utexas.edu>
+Date:   Mon Sep 25 11:40:41 2017 -0500
+
+    updated README to be specific to HW1
+
+commit 9eb25f2192eac368b78322bab7ddbf5cf5a07a3c
+Author: Anne Dara Bowen <adb@tacc.utexas.edu>
+Date:   Mon Sep 25 10:29:24 2017 -0500
+
+    restructed HW1
+
+commit 4089976da20e3065ddc35f736bb9b03d70c17841
+Author: Anne Bowen <adb@tacc.utexas.edu>
+Date:   Mon Sep 25 15:15:55 2017 +0000
+
+    changing HW README to be general for all HW
+
+commit bcef147abecf8449b8f14a925ddb967aa2d79335
+Author: Anne Bowen <adb@tacc.utexas.edu>
+Date:   Thu Sep 21 15:13:33 2017 +0000
+
+    README.md edited for clarity
+
+commit 59cdd12a43985642cfaaa9b2e7ae17bb87910a40
+Merge: 06fb13a 40fc63d
+Author: Anne Dara Bowen <adb@tacc.utexas.edu>
+Date:   Thu Sep 21 10:11:07 2017 -0500
+
+    fixed README merge conflict
+
+commit 06fb13a048f3eba66018d73dfb3195250acef647
+Author: Anne Dara Bowen <adb@tacc.utexas.edu>
+Date:   Thu Sep 21 10:07:37 2017 -0500
+
+    added some file manipulation tasks
+
+commit 40fc63dcfa5c40e5fb6b99e540a44f434c35082c
+Author: Anne Bowen <adb@tacc.utexas.edu>
+Date:   Thu Sep 21 14:55:11 2017 +0000
+
+    README.md added hint for pushing to branch
+
+commit c82769aa1772c5a5c0b3dd0b1ef8f133d36e2135
+Merge: 8b0ff7b b94eaa3
+Author: Anne Dara Bowen <adb@tacc.utexas.edu>
+Date:   Thu Sep 21 09:47:19 2017 -0500
+
+    sync with online edits of README
+    Merge branch 'master' of ssh://bitbucket.org/annedara/stc-hw1
+
+commit 8b0ff7b11bf68084d4ea9275316244dc3f20bd65
+Author: Anne Dara Bowen <adb@tacc.utexas.edu>
+Date:   Thu Sep 21 09:46:55 2017 -0500
+
+    fixed questions to match README
+
+commit b94eaa30cde81f2aedecbca0a2651eb602f6a8cf
+Author: Anne Bowen <adb@tacc.utexas.edu>
+Date:   Thu Sep 21 14:46:25 2017 +0000
+
+    README.md edited online to further fix formatting and remove merge question
+
+commit 2062af5dbd0430e9bd2ae14e4978006f4570ace2
+Author: Anne Bowen <adb@tacc.utexas.edu>
+Date:   Thu Sep 21 14:43:25 2017 +0000
+
+    README.md fixed formatting of questions
+
+commit 135b9b8614e9847625411d69c875095e7884c5c1
+Author: Anne Bowen <adb@tacc.utexas.edu>
+Date:   Thu Sep 21 14:42:25 2017 +0000
+
+    README.md edited questions
+
+commit 9b70819a5f99341081434d12882e10ee7afccaf2
+Author: Anne Dara Bowen <adb@tacc.utexas.edu>
+Date:   Thu Sep 21 09:37:56 2017 -0500
+
+    added 3 questions
+
+commit 9bfd6e1d96b8bc8eed5e6dbb966aba436a2b68fb
+Author: Anne Dara Bowen <adb@tacc.utexas.edu>
+Date:   Wed Sep 20 16:54:11 2017 -0500
+
+    updated the sample scripts with more details and prompts for Questions 1 and 2
+
+commit 4498e2f946287a20c14119b269acc771f6838c0d
+Author: Anne Bowen <adb@tacc.utexas.edu>
+Date:   Wed Sep 20 21:53:00 2017 +0000
+
+    README.md alpha
+
+commit ab266f2f03f4dcd5c5f8ba075bfb7f2eedaa7804
+Merge: 470d75b adb1c7a
+Author: Anne Dara Bowen <adb@tacc.utexas.edu>
+Date:   Wed Sep 20 16:14:56 2017 -0500
+
+    merge in order to sync changes to README I made from bitbucket webpage
+    Merge branch 'master' of ssh://bitbucket.org/annedara/stc-hw1
+
+commit 470d75bd43ef46c42f776718a0f6b5abeb3dae08
+Author: Anne Dara Bowen <adb@tacc.utexas.edu>
+Date:   Wed Sep 20 16:14:27 2017 -0500
+
+    added sample shell script and questions
+
+commit adb1c7a7034655ef3724fe51c0d2bc5b6f8308af
+Author: Anne Bowen <adb@tacc.utexas.edu>
+Date:   Wed Sep 20 19:45:45 2017 +0000
+
+    README.md edited with purpose of homework and references
+
+commit 6fe88730a905e6d0f950c96d0e6de846457464d7
+Merge: e839691 a047591
+Author: Anne Bowen <adb@tacc.utexas.edu>
+Date:   Wed Sep 20 19:13:26 2017 +0000
+
+    Merged in annedara/placeholder-readmemd-for-hw1-created-onl-1505933837507 (pull request #1)
+    
+    placeholder README.md for HW1 created online with Bitbucket
+    
+    Approved-by: Anne Bowen <adb@tacc.utexas.edu>
+
+commit a0475917adb6e7f287b915d361f4627c2665b081
+Author: Anne Bowen <adb@tacc.utexas.edu>
+Date:   Wed Sep 20 18:57:23 2017 +0000
+
+    placeholder README.md for HW1 created online with Bitbucket
+
+commit e839691807c10350c17defcd7cb8d3b7941e46f0
+Author: adb <adb@isp02.tacc.utexas.edu>
+Date:   Wed Sep 20 13:36:20 2017 -0500
+
+    sample data-file

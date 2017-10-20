@@ -1,0 +1,51 @@
+\documentclass{article}
+
+\begin{document}
+
+\section*{Question 4}
+\subsection*{Prove, mathematically, that both roots are negative.}
+
+% Enter your answer to Question 5 below this line
+See the equations in Question 5 and let $a=1$ and $c=1$, then we can see:\\
+$x_1 = ( -b + sqrt(b*b - 4) ) / 2$\\
+$x_2 = ( -b - sqrt(b*b - 4) ) / 2$\\
+when $b$ in $(1e1, 1e2... 1e15)$, and $b>=10$\\
+so we can get:\\
+$b*b>(b*b -4)$\\
+$-b + sqrt(b*b - 4)<0$ and $-b - sqrt(b*b - 4)<0$\\
+Thus, $x_1$, $x_2$ are both negative.
+
+\section*{Question 5}
+\subsection*{What is $x_1 x_2$ in terms of $a, b, c$?}
+
+% Enter your answer to Question 5 below this line
+$x_1 = ( -b + sqrt(b*b - 4*a*c) ) / (2*a)$\\
+$x_2 = ( -b - sqrt(b*b - 4*a*c) ) / (2*a)$
+
+\section*{Question 6}
+\subsection*{Look at \texttt{roots.txt}.  What do you notice about one of the
+             roots?}
+
+% Enter your answer to Question 6 below this line
+1. The precision of  of the $x_1$ are  smaller than 17.\\
+2. The $x_1$ becoms 0.000000 after $b>=9$, but accroding to Qestion 4, the value of it should be negative.
+
+\section*{Question 7}
+\subsection*{Look at the formula for the quadratic equation for the
+             solution $x_1$. For fixed $a$ and $c$, how do the magnitudes of
+             terms in the numerator compare as b gets large?}
+
+% Enter your answer to Question 7 below this line
+1. The precision of $x_1$ gets smaller as $b$ gets larger.\\
+2. Mathematically, as $b$ gets larger, $x_1$ becomes bigger and $x_2$ becomes smaller. In the case of $a=1 c=1$, $x_1$ should become bigger but not bigger than 0.
+
+\section*{Question 8}
+\subsection*{Given your analysis in 8, discuss what you think is happening in
+             the finite precision calculation of $x_1$?}
+
+% Enter your answer to Question 8 below this line
+1. Since $x_1$ is the double type in the c file, so it's width is 64 bits and it only contains 17 precision digits. When the number of decimal exceeds 17 decimal digits, machine memory overflows. During the calculating process, $b-sqrt(b^2-4ac)$ is a very small number after $b>=1e9$ and the percision is reduced dramatically. Thus, we can't get the specific the decimal digits even before 16.\\ 
+2. Also after the percision exceeding 17 digits, machine can not operate it. After $b>1e8$, $x_1$ becomes zero.
+
+
+\end{document}
